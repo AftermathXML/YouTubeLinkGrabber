@@ -1,0 +1,183 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+
+
+Lofi Girl 1 | Music | https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg |
+https://www.youtube.com/watch?v=Na0w3Mz46GA
+
+Lofi Girl 2 | Music | https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg |
+https://www.youtube.com/watch?v=jfKfPfyJRdk
+
+Lofi Girl 3 | Music | https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg |
+https://www.youtube.com/watch?v=rUxyKA_-grg
+
+Lofi Girl 4 | Music | https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg |
+https://www.youtube.com/watch?v=4oStw0r33so
+
+Synth Boy 1 | Music | https://helios-i.mashable.com/imagery/articles/03YdX6DpDbpI8LRuVEOC4vp/hero-image.fill.size_1200x1200.v1681234650.png |
+https://www.youtube.com/watch?v=4xDzrJKXOOY
+
+Synth Boy 2 | Music | https://helios-i.mashable.com/imagery/articles/03YdX6DpDbpI8LRuVEOC4vp/hero-image.fill.size_1200x1200.v1681234650.png |
+https://www.youtube.com/watch?v=S_MOd40zlYU
+
+Chill Lab Mind Boosting | Music | https://i.ibb.co/18RJH0G/Chill-Music.jpg |
+https://www.youtube.com/watch?v=vvGTc3LJtVQ
+
+Chill Lab Night Productive | Music | https://i.ibb.co/18RJH0G/Chill-Music.jpg|
+https://www.youtube.com/watch?v=QxtigSvGnD8
+
+Chill Lab Space of Possibilities | Music | https://i.ibb.co/18RJH0G/Chill-Music.jpg|
+https://www.youtube.com/watch?v=qUEtNJMxai0
+
+Chill Lab Deep Focus | Music | https://i.ibb.co/18RJH0G/Chill-Music.jpg|
+https://www.youtube.com/watch?v=tkgmYIsflSU
+
+Chill Lab Cyber City | Music | https://i.ibb.co/18RJH0G/Chill-Music.jpg|
+https://www.youtube.com/watch?v=MGgZlkX6El8
+
+Chill Lab Calm Evening | Music | https://i.ibb.co/18RJH0G/Chill-Music.jpg|
+https://www.youtube.com/watch?v=ZSt-DlLmeU8
+
+Dream Vibes Chill Out Hits | Music | https://i.ibb.co/SNjynf2/Dream-Vibes.jpg|
+https://www.youtube.com/watch?v=nHr-MJfn9TM
+
+Dream Vibes Hits | Music | https://i.ibb.co/SNjynf2/Dream-Vibes.jpg|
+https://youtube.com/watch?v=b0YN1YBxOQE
+
+Dream Vibes Tik Tok| Music | https://i.ibb.co/SNjynf2/Dream-Vibes.jpg|
+https://www.youtube.com/watch?v=6eyBQ8Vvm6A
+
+Dream Vibes Viral Songs| Music | https://i.ibb.co/SNjynf2/Dream-Vibes.jpg|
+https://www.youtube.com/watch?v=ZNz9amtZ5uQ
+
+Dream Vibes English Songs| Music | https://i.ibb.co/SNjynf2/Dream-Vibes.jpg|
+https://www.youtube.com/watch?v=iG22bgt3yyU
+
+Chill Asian| Music | https://i.ibb.co/Bc6zXxg/Pho-Chill.jpg|
+https://www.youtube.com/watch?v=eNGZ20VeNxM
+
+Spongeboy Lofi Smoke | Music | https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg|
+https://www.youtube.com/watch?v=Rm_AsflD2c0
+
+Spongeboy Lofi Vibes | Music | https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg|
+https://www.youtube.com/watch?v=IBKIzCxy55o
+
+Spongeboy Lofi Chill | Music | https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg|
+https://www.youtube.com/watch?v=p53rW6sMfqw
+
+Spongeboy Lofi Reflection | Music | https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg|
+https://www.youtube.com/watch?v=VJY9ZdHnNr0
+
+Spongeboy Lofi Dream | Music | https://i.ibb.co/nzm9mGr/Sponge-Bob.jpg|
+https://www.youtube.com/watch?v=bGA1cU_qWMQ
+
+Late Night Memories| Music | https://i.ibb.co/M1wnm1j/Late-Night.jpg|
+https://www.youtube.com/watch?v=Oy_3rq_rwUo
+
+Late Night Spotify| Music | https://i.ibb.co/M1wnm1j/Late-Night.jpg|
+https://www.youtube.com/watch?v=XYP2XblcXBk
+
+Late Night Tik Tok| Music | https://i.ibb.co/M1wnm1j/Late-Night.jpg|
+https://www.youtube.com/watch?v=NEz-Le3pAS8
+
+Late Night Good Vibes| Music | https://i.ibb.co/M1wnm1j/Late-Night.jpg|
+https://www.youtube.com/watch?v=G4iVpj5VpsY
+
+Late Night Lala| Music | https://i.ibb.co/M1wnm1j/Late-Night.jpg|
+https://www.youtube.com/watch?v=Rd78T-bwh4Y
+
+Little Soul Study| Music | https://i.ibb.co/9n6X7MN/Little-Soul.jpg|
+https://www.youtube.com/watch?v=XstikgbeTPI
+
+Little Soul Break| Music | https://i.ibb.co/9n6X7MN/Little-Soul.jpg|
+https://www.youtube.com/watch?v=WCGML6SLQD4
+
+Little Soul Late Night| Music | https://i.ibb.co/9n6X7MN/Little-Soul.jpg|
+https://www.youtube.com/watch?v=eo7aX0QWagU
+
+Little Soul Focus| Music | https://i.ibb.co/9n6X7MN/Little-Soul.jpg|
+https://www.youtube.com/watch?v=0FWzaBQVUCs
+
+Sleep Tales| Music | https://i.ibb.co/hc1ywHG/sa.jpg|
+https://www.youtube.com/watch?v=Z9D16KYgUJE
+
+Everyday Summer in Osaka| Music | https://i.ibb.co/Yc3bqbL/EDL.jpg|
+https://www.youtube.com/watch?v=j6Ec8f_s8tc
+
+Everyday Rain in Osaka| Music | https://i.ibb.co/Yc3bqbL/EDL.jpg|
+https://www.youtube.com/watch?v=O2Ipw2-uKwc
+
+Everyday Coastline Breeze| Music | https://i.ibb.co/Yc3bqbL/EDL.jpg|
+https://www.youtube.com/watch?v=-bcf-POj3eU
+
+Everyday Peaceful Night| Music | https://i.ibb.co/Yc3bqbL/EDL.jpg|
+https://www.youtube.com/watch?v=rSXWZzh-GaU
+
+Everyday Placeful Place| Music | https://i.ibb.co/Yc3bqbL/EDL.jpg|
+https://www.youtube.com/watch?v=snkg2CQM0HQ
+
+Coffee Music New York| Music | https://i.ibb.co/8Yb0K7c/Coffee-Music.jpg|
+https://www.youtube.com/watch?v=CDgxzo4dyFI
+
+Coffee Music Rainy Day| Music | https://i.ibb.co/8Yb0K7c/Coffee-Music.jpg|
+https://www.youtube.com/watch?v=XFdTycvQMQo
+
+Coffee Music Rofftop| Music | https://i.ibb.co/8Yb0K7c/Coffee-Music.jpg|
+https://www.youtube.com/watch?v=xXasRrplkNQ
+
+Coffee Music Relax| Music | https://i.ibb.co/8Yb0K7c/Coffee-Music.jpg|
+https://www.youtube.com/watch?v=Ix6emY1LHQE
+
+Kino Music Bedtime| Music | https://i.ibb.co/6wXb8z9/Kino.jpg|
+https://www.youtube.com/watch?v=JU8qWkTkLLE
+
+Kino Music Relax| Music | https://i.ibb.co/6wXb8z9/Kino.jpg|
+https://www.youtube.com/watch?v=jIp4J62aRvY
+
+Kino Music Piano| Music | https://i.ibb.co/6wXb8z9/Kino.jpg|
+https://www.youtube.com/watch?v=N240AX6JkzM
+
+Kino Music Piano| Music | https://i.ibb.co/6wXb8z9/Kino.jpg|
+https://www.youtube.com/watch?v=sxaGiJodRfU
+
+Kino Music Ghibli | Music | https://i.ibb.co/6wXb8z9/Kino.jpg|
+https://www.youtube.com/watch?v=zaXULnWg2C4
+
+Disney Music Timeless| Music | https://cdn.vox-cdn.com/thumbor/70J1nluV3vyND--DFxiATppVQe0=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951319/STK080_VRG_Illo_N_Barclay_6_disney_.jpg |
+https://www.youtube.com/watch?v=d6xOWcEib_I
+
+Disney Music Best| Music | https://cdn.vox-cdn.com/thumbor/70J1nluV3vyND--DFxiATppVQe0=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951319/STK080_VRG_Illo_N_Barclay_6_disney_.jpg |
+https://www.youtube.com/watch?v=6Z5qZwqh3QE
+
+Disney Music Happy| Music | https://cdn.vox-cdn.com/thumbor/70J1nluV3vyND--DFxiATppVQe0=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951319/STK080_VRG_Illo_N_Barclay_6_disney_.jpg |
+https://www.youtube.com/watch?v=kgD_U31vdHE
+
+Disney Music Collection| Music | https://cdn.vox-cdn.com/thumbor/70J1nluV3vyND--DFxiATppVQe0=/0x0:2040x1360/1400x1400/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951319/STK080_VRG_Illo_N_Barclay_6_disney_.jpg |
+https://www.youtube.com/watch?v=_vPCJMOOsxk
+
+Sunday Vibes | Music | https://i.pinimg.com/736x/78/80/87/7880870bd9055a5ff858f88f514d03a7.jpg |
+https://www.youtube.com/watch?v=FZFSlhheBJs
+
+Sega Lofi | Music | https://art.pixilart.com/4bf7a4fffdf9841.png |
+https://www.youtube.com/watch?v=pLQvbC8wptk
+
+Pokelofi | Music | https://confusedkittysewing.com/wp-content/uploads/2017/07/pikachu_ref.jpg |
+https://www.youtube.com/watch?v=wDA4kdgC0bc
+
+Nintendo Music | Music | https://art.pixilart.com/c516f7dd915ad92.png |
+https://www.youtube.com/watch?v=mSDmr86MdHw
+
+Nightcore Lara | Music | https://64.media.tumblr.com/8306fa0969e79ae6571956cb696bd78d/d640cbe70fde9ac7-bc/s2048x3072/259599bcc359860ba03d42913dacaa6094efdcf1.jpg |
+https://www.youtube.com/watch?v=ueG3Ul8OhQY
+
+Anime Radio | Music | https://i.pinimg.com/originals/80/5b/49/805b490a98ba4396c335ee732e6e67b9.jpg |
+https://youtube.com/watch?v=4FBW3mkdKOs
+
+Video Game Lofi | Music | https://s1.piq.land/2016/02/13/xsxz1TKTFC0AlLjGXT4IrmKZ_400x400.png |
+https://www.youtube.com/watch?v=akW7qWS_p-g
+
+Darksynth | Music | https://u.livechart.me/headline/9918/thumbnail/6d8d00a647a7626fc6e000734e5cf760.jpg/large.jpg |
+https://www.youtube.com/watch?v=MGJWPha7rJw
+
+Mystic Samurai Lofi | Music | https://i1.sndcdn.com/artworks-m5cvXFCw8cMfJQqo-ENx30g-t500x500.jpg |
+https://www.youtube.com/watch?v=PiDkx92Y6EU

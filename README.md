@@ -1,16 +1,31 @@
-# YouTubeLinkGrabber
-The program allows you to convert serval YouTube lives into a M3U file that can play in serval IPTV apps.
 
-## Motivation
-Play YouTube live using IPTV app. That's it.
+<h1 align="center"> YouTube_to_m3u </h1>
 
-## Usage
-1. Put YouTube live link into `YouTubeLink.txt` with the following format
+[![M3U generator for YouTube](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/benmoose39/YouTube_to_m3u/actions/workflows/m3u_Generator.yml)
+
+`https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u`
+
+Updated m3u links of YouTube live channels, **auto-updated every 3 hours**.
+
+
+### Add more channels
+Edit `youtube_channel_info.txt` to add your favourite YouTube livestreams
+
+Create a pull request or connect: https://discord.gg/dmgYmAEdee
+
+### Usage
+Paste this URL: `https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/youtube.m3u` to any player which supports M3U playlists
+
+### Run the tool on your local machine
+``` bash
+git clone https://github.com/benmoose39/YouTube_to_m3u.git
+cd YouTube_to_m3u
+chmod +x autorun.sh
+./autorun.sh
 ```
-Channel Name - Language
-https://www.youtube.com/watch?v=V9KZGs1MtP4
-```
-2. Run the cron job in GitHub
-3. Put the link `https://raw.githubusercontent.com/<username>/YouTubeLinkGrabber/youtube.m3u` to your IPTV app.
 
-You can also run the program locally by `python YouTubeLinkGrabber.py > YouTubeLive.m3u` or by `chmod +x exec_grabber.sh && ./exec_grabber.sh`.
+Do not forget to add a cron job set for every 4 hours(or 5) if you plan to run the script locally.
+
+### Support
+
+🙂 https://www.buymeacoffee.com/benmoose39
