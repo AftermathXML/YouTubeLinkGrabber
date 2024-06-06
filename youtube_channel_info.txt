@@ -1,6 +1,17 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Good Life Chill| Music | https://i.ibb.co/S6Bx7dd/unnamed.jpg|
+https://www.youtube.com/watch?v=9UMxZofMNbA
+
+Good Life Radio| Music | https://i.ibb.co/S6Bx7dd/unnamed.jpg|
+https://www.youtube.com/watch?v=36YnV9STBqc
+
+Good Life Mix| Music | https://i.ibb.co/S6Bx7dd/unnamed.jpg|
+https://www.youtube.com/watch?v=m52ynxt1mOo
+
+Good Life Deep| Music | https://i.ibb.co/S6Bx7dd/unnamed.jpg|
+https://www.youtube.com/watch?v=IkmLXvBfVv0
 
 Lofi Girl 1 | Music | https://upload.wikimedia.org/wikipedia/en/2/23/Lofi_girl_logo.jpg |
 https://www.youtube.com/watch?v=Na0w3Mz46GA
