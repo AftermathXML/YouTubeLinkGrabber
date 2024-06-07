@@ -1,6 +1,12 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Chillhop Jazzy| Music | https://i.ibb.co/RSvqCMC/channels4-profile.jpg|
+https://www.youtube.com/watch?v=5yx6BWlEVcY
+
+Chillhop Beats| Music | https://i.ibb.co/RSvqCMC/channels4-profile.jpg|
+https://www.youtube.com/watch?v=7NOSDKb0HlU
+
 Chill Village Mix| Music | https://i.ibb.co/hWdBnKz/channels4-profile.jpg|
 https://www.youtube.com/watch?v=1XINzGSZT4o
 
