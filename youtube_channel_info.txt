@@ -1,6 +1,21 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Mind & Spirit Celtic| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
+https://www.youtube.com/watch?v=Ixuq6lma7TQ
+
+Mind & Spirit Spiritual| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
+https://www.youtube.com/watch?v=0qUZ_tAd3EM
+
+Mind & Spirit Fantasy| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
+https://www.youtube.com/watch?v=7E0ajQxM1Qk
+
+Mind & Spirit Relax| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
+https://www.youtube.com/watch?v=DaMW8XSZyRw
+
+Mind & Spirit Healing| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
+https://www.youtube.com/watch?v=x8OIfO0cC_k
+
 Valhalla Great Hall| Music | https://i.ibb.co/vBpWZhz/unnamed.jpg |
 https://www.youtube.com/watch?v=-bHXj09iAzs
 
@@ -11,9 +26,6 @@ Valhalla Hel| Music | https://i.ibb.co/vBpWZhz/unnamed.jpg |
 https://www.youtube.com/watch?v=v3CH5FEbEVU
 
 Valhalla Crusader| Music | https://i.ibb.co/vBpWZhz/unnamed.jpg |
-https://www.youtube.com/watch?v=J10XusUuFRA
-
-Native Flute| Music | https://i.ibb.co/vBpWZhz/unnamed.jpg |
 https://www.youtube.com/watch?v=J10XusUuFRA
 
 Mind & Spirit Celtic| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
@@ -151,9 +163,6 @@ https://www.youtube.com/watch?v=vvGTc3LJtVQ
 Chill Lab Night Productive | Music | https://i.ibb.co/18RJH0G/Chill-Music.jpg|
 https://www.youtube.com/watch?v=QxtigSvGnD8
 
-Chill Lab Space of Possibilities | Music | https://i.ibb.co/18RJH0G/Chill-Music.jpg|
-https://www.youtube.com/watch?v=qUEtNJMxai0
-
 Abo in Tokyo| Music | https://i.ibb.co/4NczKnD/Abo.jpg |
 https://www.youtube.com/watch?v=tGfQYbArQhc
 
@@ -219,9 +228,6 @@ https://www.youtube.com/watch?v=WCGML6SLQD4
 
 Little Soul Late Night| Music | https://i.ibb.co/9n6X7MN/Little-Soul.jpg|
 https://www.youtube.com/watch?v=eo7aX0QWagU
-
-Little Soul Focus| Music | https://i.ibb.co/9n6X7MN/Little-Soul.jpg|
-https://www.youtube.com/watch?v=0FWzaBQVUCs
 
 Sleep Tales| Music | https://i.ibb.co/hc1ywHG/sa.jpg|
 https://www.youtube.com/watch?v=Z9D16KYgUJE
