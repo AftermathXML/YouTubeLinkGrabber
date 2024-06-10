@@ -1,6 +1,36 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Yellow Brick Calm| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
+https://www.youtube.com/watch?v=OYlHHlkWAlQ
+
+Yellow Brick Zen| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
+https://www.youtube.com/watch?v=0InwL9jVcIg
+
+Yellow Brick Sleep| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
+https://www.youtube.com/watch?v=9qf9JJP1GVQ
+
+Yellow Brick Relief| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
+https://www.youtube.com/watch?v=SPKbgq_gKEw
+
+Yellow Brick Insomnia| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
+https://www.youtube.com/watch?v=0jJpsez08OY
+
+Yellow Brick Meditation| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
+https://www.youtube.com/watch?v=Lgt0wS1faMw
+
+Yellow Brick Deep Sleep| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
+https://www.youtube.com/watch?v=mRDEkJCjw3s
+
+Yellow Brick Relax| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
+https://www.youtube.com/watch?v=LYuT17FDwu8
+
+Yellow Brick Nature| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
+https://www.youtube.com/watch?v=viHcwQcmKDc
+
+Yellow Brick Spa| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
+https://www.youtube.com/watch?v=LGGmtF5Zpck
+
 OWR Fallout| Music | https://i.ibb.co/d0QsD5d/Fall.jpg|
 https://www.youtube.com/watch?v=aZYGwkDbzuE
 
