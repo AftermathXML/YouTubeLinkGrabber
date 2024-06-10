@@ -1,6 +1,21 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Mind & Spirit Celtic| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
+https://www.youtube.com/watch?v=Ixuq6lma7TQ
+
+Mind & Spirit Relaxant| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
+https://www.youtube.com/watch?v=0qUZ_tAd3EM
+
+Mind & Spirit Mystical| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
+https://www.youtube.com/watch?v=7E0ajQxM1Qk
+
+Mind & Spirit Magical| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
+https://www.youtube.com/watch?v=DaMW8XSZyRw
+
+Mind & Spirit Healing| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
+https://www.youtube.com/watch?v=x8OIfO0cC_k
+
 Yellow Brick Calm| Music | https://i.ibb.co/tLhnxQf/channels4-profile.jpg |
 https://www.youtube.com/watch?v=OYlHHlkWAlQ
 
