@@ -1,6 +1,27 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Rainy Days Sleep| Music | https://i.ibb.co/n1qF78C/Raint.jpg |
+https://www.youtube.com/watch?v=JqoY_3QfU3s
+
+Rainy Days Relax| Music | https://i.ibb.co/n1qF78C/Raint.jpg |
+https://www.youtube.com/watch?v=BCJnqijZpEE
+
+Rainy Days Deep Sleep| Music | https://i.ibb.co/n1qF78C/Raint.jpg |
+https://www.youtube.com/watch?v=tCFhf-mE1vM
+
+Rainy Days Stop Overthinking| Music | https://i.ibb.co/n1qF78C/Raint.jpg |
+https://www.youtube.com/watch?v=DHG8supGVV4
+
+Rainy Days Deep Sleep| Music | https://i.ibb.co/n1qF78C/Raint.jpg |
+https://www.youtube.com/watch?v=tCFhf-mE1vM
+
+Rainy Days Insomnia | Music | https://i.ibb.co/n1qF78C/Raint.jpg |
+https://www.youtube.com/watch?v=KpBbjVbnSew
+
+Rainy Days Calm | Music | https://i.ibb.co/n1qF78C/Raint.jpg |
+https://www.youtube.com/watch?v=tBF1AJINXko
+
 Creepypasta Mr.Creepy| Story | https://i.ibb.co/64rttrH/Creepy.jpg |
 https://www.youtube.com/watch?v=2CDHixBmWPg
 
@@ -54,21 +75,6 @@ https://www.youtube.com/watch?v=U7XCUeyuecs
 
 Prayer Healing| Music | https://i.ibb.co/hBwD7Xt/Prayer.jpg |
 https://www.youtube.com/watch?v=PYpKoqwsN-w
-
-Mind & Spirit Celtic| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
-https://www.youtube.com/watch?v=Ixuq6lma7TQ
-
-Mind & Spirit Spiritual| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
-https://www.youtube.com/watch?v=0qUZ_tAd3EM
-
-Mind & Spirit Fantasy| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
-https://www.youtube.com/watch?v=7E0ajQxM1Qk
-
-Mind & Spirit Relax| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
-https://www.youtube.com/watch?v=DaMW8XSZyRw
-
-Mind & Spirit Healing| Music | https://i.ibb.co/sKz6Xj7/Culture-Music.jpg |
-https://www.youtube.com/watch?v=x8OIfO0cC_k
 
 Valhalla Great Hall| Music | https://i.ibb.co/vBpWZhz/unnamed.jpg |
 https://www.youtube.com/watch?v=-bHXj09iAzs
