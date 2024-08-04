@@ -1,6 +1,18 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Chillout Lounge 1| Music | https://i.ibb.co/1n0zL4D/channels4-profile-1.jpg|
+https://www.youtube.com/watch?v=AiKIewRriBU
+
+Chillout Lounge 2| Music | https://i.ibb.co/1n0zL4D/channels4-profile-1.jpg|
+https://www.youtube.com/watch?v=5hlBDPA1kD4
+
+Chillout Lounge 3| Music | https://i.ibb.co/1n0zL4D/channels4-profile-1.jpg|
+https://www.youtube.com/watch?v=chenY_Zl72c
+
+Chillout Lounge 4| Music | https://i.ibb.co/1n0zL4D/channels4-profile-1.jpg|
+https://www.youtube.com/watch?v=alM4H6fGG1c
+
 Chill Vibes Monday| Music | https://i.ibb.co/P9Y5pgt/channels4-profile.jpg|
 https://www.youtube.com/watch?v=O92JISrlNu0
 
