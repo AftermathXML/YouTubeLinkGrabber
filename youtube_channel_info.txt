@@ -499,27 +499,3 @@ https://www.youtube.com/watch?v=dJdpRO0BwA8
 Northern Lights | Live | https://png.pngtree.com/png-vector/20190927/ourmid/pngtree-camera-icon-vector-png-image_1747970.jpg|
 https://www.youtube.com/watch?v=v_uxhdJ3HgY
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/3Rjb6GS/youtube-logo-youtube-icon-transparent-free-png.webp",Youtube Chill Vibes 1
-https://ythls-v3.onrender.com/video/iodZup_KH90.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/3Rjb6GS/youtube-logo-youtube-icon-transparent-free-png.webp",Youtube Chill Vibes 2
-https://ythls-v3.onrender.com/video/ozYNQnih0Bg.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/3Rjb6GS/youtube-logo-youtube-icon-transparent-free-png.webp",Youtube Chill Vibes 3
-https://ythls-v3.onrender.com/video/c_p5Cx3KG80.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/3Rjb6GS/youtube-logo-youtube-icon-transparent-free-png.webp",Youtube Chill Vibes 4
-https://ythls-v3.onrender.com/video/eOzrMjp5NJ4.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/3Rjb6GS/youtube-logo-youtube-icon-transparent-free-png.webp",Youtube Chill Vibes 5
-https://ythls-v3.onrender.com/video/qT9rvHS3pEc.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/3Rjb6GS/youtube-logo-youtube-icon-transparent-free-png.webp",Youtube Chill Vibes 6
-https://ythls-v3.onrender.com/video/feWK8IBUDKk.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/3Rjb6GS/youtube-logo-youtube-icon-transparent-free-png.webp",Youtube Chill Vibes 7
-https://ythls-v3.onrender.com/video/nyQk0RW1TEU.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/3Rjb6GS/youtube-logo-youtube-icon-transparent-free-png.webp",Youtube Chill Vibes 8
-https://ythls-v3.onrender.com/video/cErS-M6i8mc.m3u8
-
